@@ -6,6 +6,6 @@
 
 **Try-Find-Face is an app, which has Front-End, Server, and own Database connected and deployed to Heroku. 
 A user can register and upload an Image Url Address to detect face or multiple faces on the provided image. 
-The app counts how many times the user detected faces and allows user to sign in any time later and continue using the app. **
+The app counts how many times the user detected faces and allows user to sign in any time later and continue using the app.**
 
 *P.S.You can clone this repo and check the source code if you want.*
