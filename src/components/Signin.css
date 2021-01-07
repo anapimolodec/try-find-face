@@ -1,0 +1,53 @@
+.form {
+	width: 50vw;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+	margin-left: 25vw;
+	background-color: rgba(255,255,255,0.3);
+	padding: 10px;
+	border-radius: 8px;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+
+}
+input {
+	margin-top: 0px;
+	width: 20vw;
+}
+h2{
+	width: 300px;
+	text-align: right;
+	margin-right: 20px;
+}
+#register  {
+    color: white;
+    background-color: rgba(77,0,75,0.1);
+}
+
+button:hover, button:focus {
+    background-color: rgba(77,0,75,0.6);
+    transition: background-color .15s ease-in;
+    cursor: pointer;
+    border: 10px;
+}
+
+.buttons {
+	display: block;
+
+
+}
+.input_form {
+	display:flex; 
+	flex-direction: row; 
+	justify-content: center; 
+	align-items: center;
+}
+
+@media (max-width: 800px) {
+	.input_form {
+	flex-direction: column;}
+	h2{
+	width: 300px;
+	text-align: center;
+}
+}

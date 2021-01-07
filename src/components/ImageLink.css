@@ -1,0 +1,29 @@
+p {
+	font-weight: 700;
+}
+button, input {
+	border-radius: .5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: .5rem;
+    font-weight: 700;
+    
+}
+
+.imagelink input {
+	width: 50vw;
+}
+button {
+    color: white;
+    background-color: rgba(77,0,75,1);
+
+}
+
+button:hover, button:focus {
+    background-color: rgba(77,0,75,0.6);
+    transition: background-color .15s ease-in;
+    cursor: pointer;
+}
+

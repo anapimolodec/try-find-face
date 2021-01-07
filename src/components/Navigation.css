@@ -1,0 +1,18 @@
+nav {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+p {
+	font-weight: 500;
+	padding: 3px;
+}
+
+p:hover {
+	cursor: pointer;
+	color: rgba(77,0,75,0.6);
+	transition: color .15s ease-in;
+
+}

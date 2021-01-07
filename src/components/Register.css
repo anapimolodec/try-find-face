@@ -1,0 +1,23 @@
+
+.register input {
+	margin-top: 0px;
+	width: 300px; 	
+}
+
+.register h2{
+	width: 200px;
+	text-align: right;
+	margin-right: 20px;
+}
+
+@media (max-width: 800px) {
+	.input_form {
+	flex-direction: column;}
+	.register h2 {
+	text-align: center;
+	}
+	.register input {
+	margin-top: 0px;
+	width: 30vw;	
+}
+}

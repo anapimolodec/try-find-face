@@ -1,0 +1,11 @@
+.Tilt {
+	background: linear-gradient(to right, #a6a5e4 , #9b77a4);
+	margin-left: 50px;
+	width: 10vw;
+}
+
+img {
+	padding: 3px;
+	align-items: center;
+	align-content: center;
+}

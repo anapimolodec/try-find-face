@@ -1,0 +1,20 @@
+.imagewrap {
+	position:  absolute;
+	margin: 2px;
+}
+
+img {
+	margin-top: 10px;
+	width: 40vw;
+	height: auto;
+}
+
+.bounding_box {
+	margin-top: 10px;
+	position: absolute;
+	box-shadow: 0 0 0 5px rgba(255,219,88,0.8) inset;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	cursor:pointer;
+}
