@@ -2,11 +2,11 @@
   "name": "face_brain",
   "version": "0.1.0",
   "private": true,
-  "engines" : {
-    "node" : "^14.15.1"
+  "engines": {
+    "node": "^14.15.1"
   },
   "dependencies": {
-    "node" : "^14.15.1",
+    "node": "^14.15.1",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
